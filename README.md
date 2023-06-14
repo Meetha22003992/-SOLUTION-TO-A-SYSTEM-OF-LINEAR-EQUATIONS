@@ -11,7 +11,7 @@ To write a python program to find a solution to a system of linear equations.
 
 3.Using the np.linalg.solve(), we can find the solutions.
 
-4. End the program
+4.End the program
 ## Program:
 ```
 #Program to find the solution for the given linear equations. 
